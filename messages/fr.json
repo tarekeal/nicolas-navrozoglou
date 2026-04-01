@@ -1,0 +1,231 @@
+{
+  "common": {
+    "bookAppointment": "Prendre rendez-vous",
+    "callUs": "Appelez-nous",
+    "learnMore": "En savoir plus",
+    "ourServices": "Nos services",
+    "contact": "Contact",
+    "about": "À propos",
+    "home": "Accueil",
+    "booking": "Rendez-vous",
+    "phone": "02 307 88 19",
+    "address": "Avenue Van Volxem 15, 1190 Forest, Bruxelles",
+    "email": "contact@dr-navrozoglou.be"
+  },
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "contact": "Contact",
+    "booking": "Rendez-vous"
+  },
+  "hero": {
+    "badge": "Dentiste & Endodontiste à Bruxelles",
+    "headline": "Votre sourire, notre expertise",
+    "description": "Nicolas Navrozoglou et son équipe vous accueillent dans un cadre moderne et chaleureux à Forest, Bruxelles. Des soins dentaires de qualité, dans la langue de votre choix.",
+    "cta": "Prendre rendez-vous",
+    "ctaSecondary": "Découvrir nos services"
+  },
+  "services": {
+    "title": "Nos Services Dentaires",
+    "subtitle": "Des soins complets sous un même toit",
+    "generalDentistry": {
+      "title": "Dentisterie Générale",
+      "description": "Examens de routine, détartrages, obturations et soins préventifs pour maintenir votre santé bucco-dentaire."
+    },
+    "endodontics": {
+      "title": "Endodontie",
+      "description": "Traitement de canal assisté par microscope. Spécialité de Nicolas Navrozoglou pour sauver vos dents naturelles."
+    },
+    "implants": {
+      "title": "Implants Dentaires",
+      "description": "Implants unitaires, bridges sur implants et solutions All-on-4 pour remplacer les dents manquantes."
+    },
+    "cosmetic": {
+      "title": "Dentisterie Esthétique",
+      "description": "Facettes, bonding et conception de sourire pour un résultat naturel et harmonieux."
+    },
+    "whitening": {
+      "title": "Blanchiment Dentaire",
+      "description": "Blanchiment professionnel au cabinet et kits à domicile pour un sourire éclatant."
+    },
+    "pediatric": {
+      "title": "Dentisterie Pédiatrique",
+      "description": "Soins dentaires adaptés aux enfants dans un environnement rassurant et bienveillant."
+    },
+    "periodontics": {
+      "title": "Parodontologie",
+      "description": "Traitement des maladies des gencives, détartrage en profondeur et soins parodontaux."
+    },
+    "orthodontics": {
+      "title": "Orthodontie",
+      "description": "Aligneurs invisibles, appareils traditionnels et solutions orthodontiques modernes."
+    }
+  },
+  "about": {
+    "title": "À propos de Nicolas Navrozoglou",
+    "subtitle": "Dédié à l'excellence en soins dentaires",
+    "bio": "Diplômé de l'ULB en 2015, Nicolas Navrozoglou s'est spécialisé en endodontie. Il exerce à la Clinique Dentaire Van Volxem à Forest, où il met son expertise au service de votre santé bucco-dentaire.",
+    "previewTitle": "Votre dentiste à Forest",
+    "previewDescription": "Diplômé de l'ULB, Nicolas Navrozoglou est spécialisé en endodontie et utilise les technologies les plus modernes.",
+    "previewCta": "Découvrir notre équipe",
+    "clinicTitle": "Notre Cabinet",
+    "clinicDescription": "La Clinique Dentaire Van Volxem dispose de 8 cabinets équipés des dernières technologies, dont la radiographie 3D (CBCT) pour des diagnostics précis.",
+    "values": {
+      "title": "Nos Valeurs",
+      "excellence": {
+        "title": "Excellence",
+        "description": "Les techniques et technologies les plus récentes pour des soins optimaux."
+      },
+      "care": {
+        "title": "Bienveillance",
+        "description": "Le confort et le bien-être de nos patients au cœur de notre approche."
+      },
+      "transparency": {
+        "title": "Transparence",
+        "description": "Une communication claire sur les traitements, les alternatives et les coûts."
+      },
+      "accessibility": {
+        "title": "Accessibilité",
+        "description": "Soins multilingues (FR/NL/EN), situation centrale et facilement accessible."
+      }
+    }
+  },
+  "stats": {
+    "experience": "+8 ans",
+    "experienceLabel": "d'expérience",
+    "patients": "+5 000",
+    "patientsLabel": "patients soignés",
+    "treatments": "+15 000",
+    "treatmentsLabel": "traitements réalisés",
+    "satisfaction": "98%",
+    "satisfactionLabel": "de satisfaction"
+  },
+  "testimonials": {
+    "title": "Ce que disent nos patients",
+    "items": [
+      {
+        "name": "Marie L.",
+        "treatment": "Traitement de canal",
+        "quote": "J'avais très peur du traitement de canal, mais Nicolas Navrozoglou m'a mise à l'aise dès le premier instant. Professionnel et humain.",
+        "rating": 5
+      },
+      {
+        "name": "Thomas D.",
+        "treatment": "Implant dentaire",
+        "quote": "Excellent suivi du début à la fin. Le résultat est parfait et naturel. Je recommande vivement ce cabinet.",
+        "rating": 5
+      },
+      {
+        "name": "Sophie V.",
+        "treatment": "Blanchiment",
+        "quote": "Résultat impressionnant en une seule séance. L'équipe est très professionnelle et le cabinet est moderne et accueillant.",
+        "rating": 5
+      },
+      {
+        "name": "Ahmed B.",
+        "treatment": "Contrôle annuel",
+        "quote": "Très satisfait de la qualité des soins. Nicolas Navrozoglou prend le temps d'expliquer chaque étape. Cabinet propre et bien équipé.",
+        "rating": 5
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Prenez soin de votre sourire",
+    "description": "Prenez rendez-vous en ligne ou appelez-nous pour une consultation.",
+    "button": "Prendre rendez-vous en ligne"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "N'hésitez pas à nous contacter pour toute question ou demande de rendez-vous.",
+    "form": {
+      "name": "Nom complet",
+      "email": "Adresse e-mail",
+      "phone": "Téléphone",
+      "subject": "Sujet",
+      "message": "Votre message",
+      "submit": "Envoyer",
+      "subjects": {
+        "general": "Question générale",
+        "appointment": "Demande de rendez-vous",
+        "emergency": "Urgence dentaire",
+        "other": "Autre"
+      }
+    },
+    "info": {
+      "title": "Informations pratiques",
+      "hours": "Horaires d'ouverture",
+      "hoursValue": "Lundi – Vendredi : 9h00 – 18h00",
+      "transport": "Accès",
+      "transportValue": "Tram 32, 82, 97 (arrêt Zaman-Forest National) • Train : Gare de Forest-Est"
+    }
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "items": [
+      {
+        "question": "Comment prendre rendez-vous ?",
+        "answer": "Vous pouvez prendre rendez-vous en ligne via notre page de réservation ou en nous appelant au 02 307 88 19."
+      },
+      {
+        "question": "Acceptez-vous les nouveaux patients ?",
+        "answer": "Oui, nous accueillons les nouveaux patients avec plaisir. Prenez rendez-vous en ligne ou par téléphone."
+      },
+      {
+        "question": "Quelles assurances acceptez-vous ?",
+        "answer": "Nous acceptons toutes les mutuelles belges. N'hésitez pas à nous contacter pour plus d'informations sur le remboursement de vos soins."
+      },
+      {
+        "question": "Que faire en cas d'urgence dentaire ?",
+        "answer": "En cas d'urgence durant les heures d'ouverture, appelez-nous immédiatement au 02 307 88 19. En dehors des heures, contactez le 112."
+      },
+      {
+        "question": "Le traitement de canal est-il douloureux ?",
+        "answer": "Grâce aux techniques modernes et à l'anesthésie locale, le traitement de canal se déroule sans douleur. Nicolas Navrozoglou est spécialiste en endodontie et assure votre confort tout au long de la procédure."
+      },
+      {
+        "question": "Le blanchiment dentaire est-il sans risque ?",
+        "answer": "Le blanchiment professionnel réalisé au cabinet est parfaitement sûr. Nous évaluons d'abord votre santé dentaire pour garantir un résultat optimal sans effets secondaires."
+      }
+    ]
+  },
+  "booking": {
+    "title": "Prendre rendez-vous",
+    "subtitle": "Réservez votre consultation en quelques clics.",
+    "form": {
+      "service": "Type de consultation",
+      "date": "Date souhaitée",
+      "time": "Heure souhaitée",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "birthdate": "Date de naissance",
+      "message": "Remarques (optionnel)",
+      "submit": "Confirmer le rendez-vous",
+      "services": {
+        "consultation": "Consultation générale",
+        "checkup": "Contrôle annuel",
+        "emergency": "Urgence",
+        "endodontics": "Endodontie",
+        "whitening": "Blanchiment",
+        "implant": "Implant",
+        "other": "Autre"
+      }
+    },
+    "confirmation": {
+      "title": "Demande envoyée",
+      "message": "Nous avons bien reçu votre demande de rendez-vous. Nous vous contacterons dans les plus brefs délais pour confirmer."
+    }
+  },
+  "footer": {
+    "contact": "Contact",
+    "services": "Services",
+    "hours": "Horaires",
+    "hoursValue": "Lundi – Vendredi\n9h00 – 18h00",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "accessibility": "Accessibilité",
+    "copyright": "© {year} Nicolas Navrozoglou. Tous droits réservés."
+  }
+}

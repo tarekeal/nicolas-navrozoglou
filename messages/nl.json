@@ -1,0 +1,231 @@
+{
+  "common": {
+    "bookAppointment": "Afspraak maken",
+    "callUs": "Bel ons",
+    "learnMore": "Meer weten",
+    "ourServices": "Onze diensten",
+    "contact": "Contact",
+    "about": "Over ons",
+    "home": "Home",
+    "booking": "Afspraak",
+    "phone": "02 307 88 19",
+    "address": "Van Volxemlaan 15, 1190 Vorst, Brussel",
+    "email": "contact@dr-navrozoglou.be"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Diensten",
+    "about": "Over ons",
+    "contact": "Contact",
+    "booking": "Afspraak"
+  },
+  "hero": {
+    "badge": "Tandarts & Endodontist in Brussel",
+    "headline": "Uw glimlach, onze expertise",
+    "description": "Nicolas Navrozoglou en zijn team verwelkomen u in een modern en warm kader in Vorst, Brussel. Kwalitatieve tandheelkundige zorg, in de taal van uw keuze.",
+    "cta": "Afspraak maken",
+    "ctaSecondary": "Ontdek onze diensten"
+  },
+  "services": {
+    "title": "Onze Tandheelkundige Diensten",
+    "subtitle": "Uitgebreide zorg onder één dak",
+    "generalDentistry": {
+      "title": "Algemene Tandheelkunde",
+      "description": "Routinecontroles, tandsteen verwijderen, vullingen en preventieve zorg voor uw mondgezondheid."
+    },
+    "endodontics": {
+      "title": "Endodontie",
+      "description": "Wortelkanaalbehandeling met microscoop. Specialiteit van Nicolas Navrozoglou om uw natuurlijke tanden te behouden."
+    },
+    "implants": {
+      "title": "Tandimplantaten",
+      "description": "Enkele implantaten, bruggen op implantaten en All-on-4 oplossingen voor ontbrekende tanden."
+    },
+    "cosmetic": {
+      "title": "Esthetische Tandheelkunde",
+      "description": "Veneers, bonding en glimlachontwerp voor een natuurlijk en harmonieus resultaat."
+    },
+    "whitening": {
+      "title": "Tanden Bleken",
+      "description": "Professioneel bleken in het kabinet en thuiskits voor een stralende glimlach."
+    },
+    "pediatric": {
+      "title": "Kindertandheelkunde",
+      "description": "Tandheelkundige zorg aangepast aan kinderen in een geruststellende en warme omgeving."
+    },
+    "periodontics": {
+      "title": "Parodontologie",
+      "description": "Behandeling van tandvleesaandoeningen, dieptereiniging en parodontale zorg."
+    },
+    "orthodontics": {
+      "title": "Orthodontie",
+      "description": "Onzichtbare aligners, traditionele beugels en moderne orthodontische oplossingen."
+    }
+  },
+  "about": {
+    "title": "Over Nicolas Navrozoglou",
+    "subtitle": "Toegewijd aan excellentie in tandheelkundige zorg",
+    "bio": "Afgestudeerd aan de ULB in 2015, specialiseerde Nicolas Navrozoglou zich in endodontie. Hij praktiseert in de Clinique Dentaire Van Volxem in Vorst, waar hij zijn expertise ten dienste stelt van uw tandgezondheid.",
+    "previewTitle": "Uw tandarts in Vorst",
+    "previewDescription": "Afgestudeerd aan de ULB combineert Nicolas Navrozoglou zijn specialisatie in endodontie met de modernste technologieën.",
+    "previewCta": "Ontdek ons team",
+    "clinicTitle": "Ons Kabinet",
+    "clinicDescription": "De Clinique Dentaire Van Volxem beschikt over 8 kabinetten uitgerust met de nieuwste technologieën, waaronder 3D-radiografie (CBCT) voor nauwkeurige diagnoses.",
+    "values": {
+      "title": "Onze Waarden",
+      "excellence": {
+        "title": "Excellentie",
+        "description": "De nieuwste technieken en technologieën voor optimale zorg."
+      },
+      "care": {
+        "title": "Zorgzaamheid",
+        "description": "Het comfort en welzijn van onze patiënten staat centraal in onze aanpak."
+      },
+      "transparency": {
+        "title": "Transparantie",
+        "description": "Duidelijke communicatie over behandelingen, alternatieven en kosten."
+      },
+      "accessibility": {
+        "title": "Toegankelijkheid",
+        "description": "Meertalige zorg (FR/NL/EN), centraal gelegen en gemakkelijk bereikbaar."
+      }
+    }
+  },
+  "stats": {
+    "experience": "+8 jaar",
+    "experienceLabel": "ervaring",
+    "patients": "+5.000",
+    "patientsLabel": "behandelde patiënten",
+    "treatments": "+15.000",
+    "treatmentsLabel": "uitgevoerde behandelingen",
+    "satisfaction": "98%",
+    "satisfactionLabel": "tevredenheid"
+  },
+  "testimonials": {
+    "title": "Wat onze patiënten zeggen",
+    "items": [
+      {
+        "name": "Marie L.",
+        "treatment": "Wortelkanaalbehandeling",
+        "quote": "Ik was heel bang voor de wortelkanaalbehandeling, maar Nicolas Navrozoglou stelde me meteen op mijn gemak. Professioneel en menselijk.",
+        "rating": 5
+      },
+      {
+        "name": "Thomas D.",
+        "treatment": "Tandimplantaat",
+        "quote": "Uitstekende opvolging van begin tot eind. Het resultaat is perfect en natuurlijk. Ik beveel dit kabinet ten zeerste aan.",
+        "rating": 5
+      },
+      {
+        "name": "Sophie V.",
+        "treatment": "Bleken",
+        "quote": "Indrukwekkend resultaat in één sessie. Het team is zeer professioneel en het kabinet is modern en gezellig.",
+        "rating": 5
+      },
+      {
+        "name": "Ahmed B.",
+        "treatment": "Jaarlijkse controle",
+        "quote": "Zeer tevreden over de kwaliteit van de zorg. Nicolas Navrozoglou neemt de tijd om elke stap uit te leggen. Proper en goed uitgerust kabinet.",
+        "rating": 5
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Zorg voor uw glimlach",
+    "description": "Maak een afspraak online of bel ons voor een consultatie.",
+    "button": "Online afspraak maken"
+  },
+  "contact": {
+    "title": "Contacteer ons",
+    "subtitle": "Aarzel niet om ons te contacteren voor vragen of afspraken.",
+    "form": {
+      "name": "Volledige naam",
+      "email": "E-mailadres",
+      "phone": "Telefoon",
+      "subject": "Onderwerp",
+      "message": "Uw bericht",
+      "submit": "Verzenden",
+      "subjects": {
+        "general": "Algemene vraag",
+        "appointment": "Afspraak aanvragen",
+        "emergency": "Tandheelkundige noodgeval",
+        "other": "Andere"
+      }
+    },
+    "info": {
+      "title": "Praktische informatie",
+      "hours": "Openingsuren",
+      "hoursValue": "Maandag – Vrijdag: 9u00 – 18u00",
+      "transport": "Bereikbaarheid",
+      "transportValue": "Tram 32, 82, 97 (halte Zaman-Forest Nationaal) • Trein: Station Vorst-Oost"
+    }
+  },
+  "faq": {
+    "title": "Veelgestelde vragen",
+    "items": [
+      {
+        "question": "Hoe maak ik een afspraak?",
+        "answer": "U kunt online een afspraak maken via onze reserveringspagina of ons bellen op 02 307 88 19."
+      },
+      {
+        "question": "Nemen jullie nieuwe patiënten aan?",
+        "answer": "Ja, wij verwelkomen nieuwe patiënten met plezier. Maak online een afspraak of bel ons."
+      },
+      {
+        "question": "Welke verzekeringen accepteren jullie?",
+        "answer": "Wij aanvaarden alle Belgische mutualiteiten. Neem contact met ons op voor meer informatie over de terugbetaling van uw zorg."
+      },
+      {
+        "question": "Wat te doen bij een tandheelkundig noodgeval?",
+        "answer": "Bel ons bij noodgevallen tijdens de openingsuren onmiddellijk op 02 307 88 19. Buiten de openingsuren, bel 112."
+      },
+      {
+        "question": "Is een wortelkanaalbehandeling pijnlijk?",
+        "answer": "Dankzij moderne technieken en lokale verdoving verloopt de wortelkanaalbehandeling pijnloos. Nicolas Navrozoglou is specialist in endodontie en zorgt voor uw comfort tijdens de hele procedure."
+      },
+      {
+        "question": "Is tanden bleken veilig?",
+        "answer": "Professioneel bleken in het kabinet is volkomen veilig. Wij evalueren eerst uw tandgezondheid om een optimaal resultaat te garanderen zonder bijwerkingen."
+      }
+    ]
+  },
+  "booking": {
+    "title": "Afspraak maken",
+    "subtitle": "Reserveer uw consultatie in enkele klikken.",
+    "form": {
+      "service": "Type consultatie",
+      "date": "Gewenste datum",
+      "time": "Gewenst uur",
+      "firstName": "Voornaam",
+      "lastName": "Achternaam",
+      "email": "E-mail",
+      "phone": "Telefoon",
+      "birthdate": "Geboortedatum",
+      "message": "Opmerkingen (optioneel)",
+      "submit": "Afspraak bevestigen",
+      "services": {
+        "consultation": "Algemene consultatie",
+        "checkup": "Jaarlijkse controle",
+        "emergency": "Noodgeval",
+        "endodontics": "Endodontie",
+        "whitening": "Bleken",
+        "implant": "Implantaat",
+        "other": "Andere"
+      }
+    },
+    "confirmation": {
+      "title": "Aanvraag verzonden",
+      "message": "Wij hebben uw afspraakaanvraag goed ontvangen. Wij nemen zo snel mogelijk contact met u op ter bevestiging."
+    }
+  },
+  "footer": {
+    "contact": "Contact",
+    "services": "Diensten",
+    "hours": "Openingsuren",
+    "hoursValue": "Maandag – Vrijdag\n9u00 – 18u00",
+    "legal": "Juridische vermeldingen",
+    "privacy": "Privacybeleid",
+    "accessibility": "Toegankelijkheid",
+    "copyright": "© {year} Nicolas Navrozoglou. Alle rechten voorbehouden."
+  }
+}

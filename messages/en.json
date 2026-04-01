@@ -1,0 +1,231 @@
+{
+  "common": {
+    "bookAppointment": "Book Appointment",
+    "callUs": "Call Us",
+    "learnMore": "Learn More",
+    "ourServices": "Our Services",
+    "contact": "Contact",
+    "about": "About",
+    "home": "Home",
+    "booking": "Appointment",
+    "phone": "02 307 88 19",
+    "address": "Avenue Van Volxem 15, 1190 Forest, Brussels",
+    "email": "contact@dr-navrozoglou.be"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "booking": "Appointment"
+  },
+  "hero": {
+    "badge": "Dentist & Endodontist in Brussels",
+    "headline": "Your Smile, Our Expertise",
+    "description": "Nicolas Navrozoglou and his team welcome you in a modern and warm setting in Forest, Brussels. Quality dental care, in the language of your choice.",
+    "cta": "Book Appointment",
+    "ctaSecondary": "Discover Our Services"
+  },
+  "services": {
+    "title": "Our Dental Services",
+    "subtitle": "Comprehensive care under one roof",
+    "generalDentistry": {
+      "title": "General Dentistry",
+      "description": "Routine check-ups, cleanings, fillings and preventive care to maintain your oral health."
+    },
+    "endodontics": {
+      "title": "Endodontics",
+      "description": "Microscope-assisted root canal treatment. Nicolas Navrozoglou's specialty to save your natural teeth."
+    },
+    "implants": {
+      "title": "Dental Implants",
+      "description": "Single implants, implant-supported bridges and All-on-4 solutions for missing teeth."
+    },
+    "cosmetic": {
+      "title": "Cosmetic Dentistry",
+      "description": "Veneers, bonding and smile design for a natural and harmonious result."
+    },
+    "whitening": {
+      "title": "Teeth Whitening",
+      "description": "Professional in-office whitening and take-home kits for a radiant smile."
+    },
+    "pediatric": {
+      "title": "Pediatric Dentistry",
+      "description": "Dental care adapted to children in a reassuring and caring environment."
+    },
+    "periodontics": {
+      "title": "Periodontics",
+      "description": "Gum disease treatment, deep cleaning and periodontal care."
+    },
+    "orthodontics": {
+      "title": "Orthodontics",
+      "description": "Invisible aligners, traditional braces and modern orthodontic solutions."
+    }
+  },
+  "about": {
+    "title": "About Nicolas Navrozoglou",
+    "subtitle": "Dedicated to excellence in dental care",
+    "bio": "Graduated from ULB Brussels in 2015, Nicolas Navrozoglou specialized in endodontics. He practices at Clinique Dentaire Van Volxem in Forest, where he puts his expertise at the service of your dental health.",
+    "previewTitle": "Your Dentist in Forest",
+    "previewDescription": "Graduated from ULB, Nicolas Navrozoglou specializes in endodontics and uses the most modern technologies.",
+    "previewCta": "Meet Our Team",
+    "clinicTitle": "Our Clinic",
+    "clinicDescription": "Clinique Dentaire Van Volxem features 8 treatment rooms equipped with the latest technologies, including 3D radiography (CBCT) for precise diagnostics.",
+    "values": {
+      "title": "Our Values",
+      "excellence": {
+        "title": "Excellence",
+        "description": "The latest techniques and technologies for optimal care."
+      },
+      "care": {
+        "title": "Compassion",
+        "description": "Patient comfort and well-being at the heart of our approach."
+      },
+      "transparency": {
+        "title": "Transparency",
+        "description": "Clear communication about treatments, alternatives and costs."
+      },
+      "accessibility": {
+        "title": "Accessibility",
+        "description": "Multilingual care (FR/NL/EN), centrally located and easily accessible."
+      }
+    }
+  },
+  "stats": {
+    "experience": "8+",
+    "experienceLabel": "years of experience",
+    "patients": "5,000+",
+    "patientsLabel": "patients treated",
+    "treatments": "15,000+",
+    "treatmentsLabel": "treatments performed",
+    "satisfaction": "98%",
+    "satisfactionLabel": "patient satisfaction"
+  },
+  "testimonials": {
+    "title": "What Our Patients Say",
+    "items": [
+      {
+        "name": "Marie L.",
+        "treatment": "Root Canal",
+        "quote": "I was very afraid of the root canal treatment, but Nicolas Navrozoglou put me at ease from the very first moment. Professional and caring.",
+        "rating": 5
+      },
+      {
+        "name": "Thomas D.",
+        "treatment": "Dental Implant",
+        "quote": "Excellent follow-up from start to finish. The result is perfect and natural. I highly recommend this clinic.",
+        "rating": 5
+      },
+      {
+        "name": "Sophie V.",
+        "treatment": "Whitening",
+        "quote": "Impressive result in a single session. The team is very professional and the clinic is modern and welcoming.",
+        "rating": 5
+      },
+      {
+        "name": "Ahmed B.",
+        "treatment": "Annual Check-up",
+        "quote": "Very satisfied with the quality of care. Nicolas Navrozoglou takes the time to explain every step. Clean and well-equipped clinic.",
+        "rating": 5
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Take Care of Your Smile",
+    "description": "Book an appointment online or call us for a consultation.",
+    "button": "Book Online"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Don't hesitate to reach out for any questions or appointment requests.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send",
+      "subjects": {
+        "general": "General Question",
+        "appointment": "Appointment Request",
+        "emergency": "Dental Emergency",
+        "other": "Other"
+      }
+    },
+    "info": {
+      "title": "Practical Information",
+      "hours": "Opening Hours",
+      "hoursValue": "Monday – Friday: 9:00 AM – 6:00 PM",
+      "transport": "Getting Here",
+      "transportValue": "Tram 32, 82, 97 (Zaman-Forest National stop) • Train: Forest-East Station"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "How do I make an appointment?",
+        "answer": "You can book an appointment online through our booking page or by calling us at 02 307 88 19."
+      },
+      {
+        "question": "Do you accept new patients?",
+        "answer": "Yes, we welcome new patients. Book an appointment online or call us."
+      },
+      {
+        "question": "Which insurances do you accept?",
+        "answer": "We accept all Belgian mutual insurance funds. Contact us for more information about reimbursement of your care."
+      },
+      {
+        "question": "What to do in case of a dental emergency?",
+        "answer": "For emergencies during opening hours, call us immediately at 02 307 88 19. Outside hours, call 112."
+      },
+      {
+        "question": "Is root canal treatment painful?",
+        "answer": "Thanks to modern techniques and local anesthesia, root canal treatment is painless. Nicolas Navrozoglou is a specialist in endodontics and ensures your comfort throughout the procedure."
+      },
+      {
+        "question": "Is teeth whitening safe?",
+        "answer": "Professional in-office whitening is completely safe. We first evaluate your dental health to guarantee optimal results without side effects."
+      }
+    ]
+  },
+  "booking": {
+    "title": "Book an Appointment",
+    "subtitle": "Reserve your consultation in just a few clicks.",
+    "form": {
+      "service": "Consultation Type",
+      "date": "Preferred Date",
+      "time": "Preferred Time",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "birthdate": "Date of Birth",
+      "message": "Notes (optional)",
+      "submit": "Confirm Appointment",
+      "services": {
+        "consultation": "General Consultation",
+        "checkup": "Annual Check-up",
+        "emergency": "Emergency",
+        "endodontics": "Endodontics",
+        "whitening": "Whitening",
+        "implant": "Implant",
+        "other": "Other"
+      }
+    },
+    "confirmation": {
+      "title": "Request Sent",
+      "message": "We have received your appointment request. We will contact you as soon as possible to confirm."
+    }
+  },
+  "footer": {
+    "contact": "Contact",
+    "services": "Services",
+    "hours": "Opening Hours",
+    "hoursValue": "Monday – Friday\n9:00 AM – 6:00 PM",
+    "legal": "Legal Notice",
+    "privacy": "Privacy Policy",
+    "accessibility": "Accessibility",
+    "copyright": "© {year} Nicolas Navrozoglou. All rights reserved."
+  }
+}
